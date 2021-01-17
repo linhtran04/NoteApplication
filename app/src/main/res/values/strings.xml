@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">NoteManagementSystem</string>
+    <string name="title_activity_dash_board_form">DashBoardForm</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_notes">My Notes</string>
+    <string name="search_notes">Search notes</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_subtitle">Status</string>
+    <string name="tyoe_note_here">Type note here</string>
+    <string name="username">username</string>
+    <string name="password">Password</string>
+    <string name="not_registerd">Not Registerd?</string>
+    <string name="register">REGISTER</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_registerd">Already Registerd?</string>
+    <string name="login">LOGIN</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="pick_color">Pick Color</string>
+
+
+</resources>
